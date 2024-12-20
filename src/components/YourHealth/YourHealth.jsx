@@ -22,7 +22,7 @@ const YourHealth = () => {
         <div className='block md:hidden pt-10 py-5 text-center'>
     <h1 className='text-[30px] font-medium '>TAKE CONTROL OF YOUR HEALTH</h1> </div>
     <div className='flex gap-2'>
-        <div className='flex flex-col justify-between px-2'><img src={takeControl1} alt="" /><img src={takeControl2} alt="" /></div>
+        <div className='flex flex-col justify-between px-2 overflow-hidden'><img src={takeControl1} alt="" /><img src={takeControl2} alt="" /></div>
         <div><img src={takeControl3} alt="" /></div>
     </div>
     </div>
