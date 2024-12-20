@@ -20,6 +20,9 @@ const OurProduct = () => {
 
       <Card src={ourProduct4} name={"APPLE CIDER VINEGAR (3 MONTH SUPPLY)"}/>
     </div>
+    <div>
+        <button className='border-[#F6623E] border-2 py-1 px-3 text-[12px]'>VIEW ALL PRODUCTS</button>
+    </div>
 
   </div>
   )

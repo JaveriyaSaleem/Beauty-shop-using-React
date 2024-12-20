@@ -6,6 +6,8 @@ import AfterHero from './components/After Hero/AfterHero.jsx'
 import WhyUs from './components/Why Us/WhyUs.jsx'
 import YourHealth from './components/YourHealth/YourHealth.jsx'
 import OurProduct from './components/Our Product/OurProduct.jsx'
+import LatestNews from './components/Latest News/LatestNews.jsx'
+import BeforeFooter from './components/Before Footer/BeforeFooter.jsx'
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
     <WhyUs />
     <YourHealth />
     <OurProduct />
+    <LatestNews />
+    <BeforeFooter />
 
     
 
