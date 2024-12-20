@@ -20,3 +20,22 @@ font-family: Jost !important;
 .poppins-reg{
 font-family: Poppins !important;
 }
+@media screen and (max-width:772px) and (min-width: 400px) {
+    .hero-bg{
+    background-image: url("../../assets/Images/edited for media 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+height: 400px;}
+    }
+    @media screen and (max-width:400px) and (min-width: 200px) {
+        .hero-bg{
+        background-image: url("../../assets/Images/edited for media 2.png");
+        width: 100%;
+        background-position: top;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        }
+        
+    }
