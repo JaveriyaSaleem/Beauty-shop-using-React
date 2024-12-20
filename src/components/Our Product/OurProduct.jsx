@@ -5,7 +5,7 @@ import ourProduct1 from '../../assets/Images/multivitamin our products.png'
 import ourProduct2 from '../../assets/Images/vitamin c our products.png'
 import ourProduct3 from '../../assets/Images/multivitamin our products 2.png'
 import ourProduct4 from '../../assets/Images/apple cider our products.png'
-import background from '../../assets/Images/bg of multivitamin.png'
+import background from '../../assets/Images/bg-of-multivitamin.png'
 
 
 const OurProduct = () => {

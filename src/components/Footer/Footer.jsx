@@ -33,11 +33,11 @@ const Footer = () => {
     </section>
     <section className='Jost-reg flex flex-col items-center gap-4 md:grid md:grid-cols-3 md:gap-20 grid-cols-1 pt-3 px-2 border-t-[#e8e6e8] border-[1px] text-center'>
       <div><ul className='flex gap-3 order-1'>
-        <li><a href=""><i class="fa-brands fa-square-facebook text-[#6C757D] text-[24px]"></i></a></li>
-        <li><a href=""><i class="fa-brands fa-instagram text-[#6C757D] text-[24px]"></i></a></li>
-        <li><a href=""><i class="fa-brands fa-twitter text-[#6C757D] text-[24px]"></i></a></li>
-        <li><a href=""><i class="fa-brands fa-linkedin text-[#6C757D] text-[24px]"></i></a></li>
-        <li><a href=""><i class="fa-brands fa-tiktok text-[#6C757D] text-[24px]"></i></a></li>
+        <li><a href=""><i className="fa-brands fa-square-facebook text-[#6C757D] text-[24px]"></i></a></li>
+        <li><a href=""><i className="fa-brands fa-instagram text-[#6C757D] text-[24px]"></i></a></li>
+        <li><a href=""><i className="fa-brands fa-twitter text-[#6C757D] text-[24px]"></i></a></li>
+        <li><a href=""><i className="fa-brands fa-linkedin text-[#6C757D] text-[24px]"></i></a></li>
+        <li><a href=""><i className="fa-brands fa-tiktok text-[#6C757D] text-[24px]"></i></a></li>
       </ul></div>
       <div className='text-[16px] text-center order-3 md:order-2'>
         <p >© 2024, <span className='text-[#F7623E]'>GOOD4ME.</span> Powered by</p>
