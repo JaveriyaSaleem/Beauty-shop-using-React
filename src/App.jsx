@@ -8,6 +8,7 @@ import YourHealth from './components/YourHealth/YourHealth.jsx'
 import OurProduct from './components/Our Product/OurProduct.jsx'
 import LatestNews from './components/Latest News/LatestNews.jsx'
 import BeforeFooter from './components/Before Footer/BeforeFooter.jsx'
+import Footer from './components/Footer/Footer.jsx'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
     <OurProduct />
     <LatestNews />
     <BeforeFooter />
+    <Footer />
 
     
 
