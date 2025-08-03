@@ -5,7 +5,7 @@ import securedPayment from '../../assets/Images/secured payment.png'
 
 const WhyUs = () => {
   return (
-    <div className='flex flex-col md:flex-row items-center justify-center w-100 py-24'>
+    <div className='flex flex-row md:flex-row items-center justify-center w-100 py-5 sm:py-24 '>
       <div><img src={worldShipping} alt="" /></div>
       <div><img src={dayGuarantee} alt="" /></div>
       <div><img src={securedPayment} alt="" /></div>

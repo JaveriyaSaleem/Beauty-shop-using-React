@@ -12,7 +12,7 @@ const OurProduct = () => {
   return (
     <div className='mt-10 md:mt-28 flex flex-col items-center Jost-reg px-1'>
     <h1 className='text-[30px] md:text-[40px] text-center font-medium'>Our Product Are</h1>
-    <div className='grid grid-cols-1 md:grid-cols-4 gap-3 p-9'>
+    <div className='grid grid-cols-1 md:grid-cols-4 gap-3 p-9 '>
       <Card src={ourProduct1} name={"MULTI-VITAMIN (3 MONTH SUPPLY)"}/>
       <Card src={ourProduct2} name={"VITAMIN C: IMMUNITY SUPPORT"} background={background} paddingL={"65px"} paddingR={"65px"} paddingTop={'20px'}/>
 
